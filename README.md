@@ -21,6 +21,7 @@ SQL: Data querying, aggregation, joins, and KPI calculations.
 Microsoft Excel: Data cleaning, data analysis, pivot tables, and charts.
 Power BI: Interactive dashboards, data visualization, and business reporting.
 Python: Data analysis and exploration using libraries such as Pandas, NumPy, and Matplotlib, where applicable.
+
 📊 Key Performance Indicators (KPIs)
 
 The project focuses on the following business metrics:
@@ -30,6 +31,7 @@ Total Orders: Number of orders placed.
 Total Pizzas Sold: Total quantity of pizzas sold.
 Average Order Value: Average revenue generated per order.
 Average Pizzas Per Order: Average number of pizzas purchased per order.
+
 🔍 Analysis Performed
 1. SQL Analysis
 
@@ -76,6 +78,7 @@ Data cleaning and preparation, where required.
 Exploratory Data Analysis (EDA).
 Aggregation and analysis of sales metrics.
 Data visualization using Matplotlib, where applicable.
+
 💡 Key Business Insights
 
 The analysis aims to identify:
