@@ -127,4 +127,3 @@ This project demonstrates how SQL, Excel, Power BI, and Python can be used toget
 
 By combining data analysis with interactive reporting and visualization, the project highlights the importance of data-driven decision-making in understanding sales performance and identifying business opportunities.
 
-⭐ If you find this project interesting, feel free to explore the repository!
