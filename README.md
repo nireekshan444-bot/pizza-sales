@@ -121,8 +121,8 @@ Data Visualization
 KPI Analysis
 Business Intelligence
 Data-Driven Decision-Making
-📝 Conclusion
 
+📝 Conclusion
 This project demonstrates how SQL, Excel, Power BI, and Python can be used together to analyze sales data and generate meaningful business insights.
 
 By combining data analysis with interactive reporting and visualization, the project highlights the importance of data-driven decision-making in understanding sales performance and identifying business opportunities.
