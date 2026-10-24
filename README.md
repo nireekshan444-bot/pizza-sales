@@ -112,14 +112,14 @@ Use dashboard insights to monitor business performance and support decision-maki
 Recommendations should be finalized based on the actual results of the analysis.
 
 📚 Skills Demonstrated
-Data Cleaning and Preparation
-SQL Querying and Data Aggregation
-Exploratory Data Analysis (EDA)
-Microsoft Excel and Pivot Tables
-Power BI Dashboard Development
-Data Visualization
-KPI Analysis
-Business Intelligence
+Data Cleaning and Preparation,
+SQL Querying and Data Aggregation,
+Exploratory Data Analysis (EDA),
+Microsoft Excel and Pivot Tables,
+Power BI Dashboard Development,
+Data Visualization,
+KPI Analysis,
+Business Intelligence,
 Data-Driven Decision-Making
 
 📝 Conclusion
